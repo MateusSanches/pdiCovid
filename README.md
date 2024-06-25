@@ -11,6 +11,14 @@ Mateus Borreiro Sanches RA:1633651
 ```bash
 https://github.com/MateusSanches/pdiCovid
 ```
+
+
+## Link Apresentacao Youtube
+
+```bash
+https://youtu.be/oyKkGC8Lslo
+```
+
 ## Descrição do descritor implementado
 
 -Matriz de Co-ocorrência de Nível de Cinza (GLCM)
